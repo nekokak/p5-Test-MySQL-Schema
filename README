@@ -1,0 +1,27 @@
+This is Perl module Test::MySQL::Schema.
+
+INSTALLATION
+
+Test::MySQL::Schema installation is straightforward. If your CPAN shell is set up,
+you should just be able to do
+
+    % cpanm Test::MySQL::Schema
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+DOCUMENTATION
+
+Test::MySQL::Schema documentation is available as in POD. So you can do:
+
+    % perldoc Test::MySQL::Schema
+
+to read the documentation online with your favorite pager.
+
+Atsushi Kobayashi
